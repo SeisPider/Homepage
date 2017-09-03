@@ -6,7 +6,6 @@ Modified from [SeisMan's Homepage](https://github.com/seisman/academic-homepage)
 ~~~
 $ git clone https://github.com/seispider/Homepage
 $ cd Homepage
-$ git submodule update --init --remote
 $ hugo server
 ~~~
 
