@@ -1,0 +1,15 @@
+language: generic
+sudo: required
+env:
+  - HUGO_VERSION=0.26
+
+install:
+  - sudo apt-get install lftp
+  - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - tar -xvf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz hugo
+
+script:
+  - ./hugo
+
+after_success:
+  - lftp -c "set ftps:initial-prot ''; open ftp://$USER:$PASSWD@home.ustc.edu.cn:21; mirror -eRv public public_html; quit;"
