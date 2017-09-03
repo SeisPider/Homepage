@@ -1,4 +1,4 @@
-baseurl = "http://home.ustc.edu.cn/XiaoX17/"  # End your URL with a `/` trailing slash.
+baseurl = "http://home.ustc.edu.cn/~XiaoX17/"  # End your URL with a `/` trailing slash.
 title = "Xiao Xiao"
 copyright = "&copy; 2017-2022 Xiao Xiao"
 theme = "academic"
