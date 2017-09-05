@@ -21,7 +21,7 @@ hasCJKLanguage = true
 
 [params]
   name = "Xiao Xiao"
-  role = "PhD Candidate in Geophysics"
+  role = "Master Candidate in Geophysics"
   organization = "University of Science and Technology of China"
   organization_url = "http://en.ustc.edu.cn/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
@@ -204,7 +204,7 @@ hasCJKLanguage = true
 #[languages.zh.params]
 # see https://github.com/gcushen/hugo-academic/issues/213
   name = "肖晓"
-  role = "地球物理学在读博士生"
+  role = "地球物理学在读硕士生"
   organization = "中国科学技术大学"
   organization_url = "http://www.ustc.edu.cn/"
   address = "安徽省 合肥市 中国科学技术大学东区 教学行政楼 1127室"

@@ -20,9 +20,9 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "博士, 地球物理学"
+  course = "硕士, 地球物理学"
   institution = "中国科学技术大学"
-  year = "2022 (预期)"
+  year = "2020 (预期)"
 
 [[education.courses]]
   course = "学士, 地球物理学"
