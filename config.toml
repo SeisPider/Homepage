@@ -167,22 +167,22 @@ hasCJKLanguage = true
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Experiences"
   url = "#Experiences"
-  weight = 2
+  weight = 3
 
 #[[menu.main]]
 #  name = "Resources"
 #  url = "#resources"
-#  weight = 6
+#  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
@@ -229,19 +229,19 @@ hasCJKLanguage = true
 [[languages.zh.menu.main]]
   name = "文章"
   url = "#publications"
-  weight = 3
+  weight = 2
 
 [[languages.zh.menu.main]]
   name = "工作及获奖"
   url = "#Experiences"
-  weight = 2
+  weight = 3
   
 #[[languages.zh.menu.main]]
 #  name = "资源下载"
 #  url = "#resources"
-#  weight = 6
+#  weight = 4
 
 [[languages.zh.menu.main]]
   name = "联系方式"
   url = "#contact"
-  weight = 7
+  weight = 5
