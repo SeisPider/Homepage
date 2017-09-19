@@ -14,8 +14,6 @@ weight = 1
   interests = [
     "层析成像",
     "噪声源分析",
-    "地震干涉",
-    "地球深部结构",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,7 +29,7 @@ weight = 1
 
 +++
 
-肖晓，[中国科学技术大学](http://www.ustc.edu.cn/)地球物理学在读博士生，指导老师是[温联星](http://geophysics.geo.sunysb.edu/wen/)教授。
+肖晓，[中国科学技术大学](http://www.ustc.edu.cn/)地球物理学在读硕士生，指导老师是[温联星](http://geophysics.geo.sunysb.edu/wen/)教授。
 
 他的主要研究兴趣包括地震层析成像以及噪声源分析。
 

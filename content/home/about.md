@@ -14,8 +14,6 @@ weight = 1
   interests = [
     "Seismic Tomography",
     "Ambient Noise Source Analysis",
-    "Structure of the Earth's Deep Interior",
-    "Seismic interferometry",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,7 +29,7 @@ weight = 1
 
 +++
 
-Xiao Xiao is a Master Candidate in Geophysics at
+Xiao Xiao is a graduate student in Geophysics at
 [University of Science and Technology of China](http://en.ustc.edu.cn/),
 supervised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 

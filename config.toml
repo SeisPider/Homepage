@@ -21,7 +21,7 @@ hasCJKLanguage = true
 
 [params]
   name = "Xiao Xiao"
-  role = "Master Candidate in Geophysics"
+  role = "Graduate student in Geophysics"
   organization = "University of Science and Technology of China"
   organization_url = "http://en.ustc.edu.cn/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
