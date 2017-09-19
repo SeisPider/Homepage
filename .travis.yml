@@ -10,6 +10,7 @@ install:
   - git submodule update --remote
 script:
   - ./hugo
-
+  - cd public 
+  - wget https://raw.githubusercontent.com/SeisPider/CV/master/cv.pdf ./
 after_success:
   - lftp -c "set ftps:initial-prot ''; open ftp://$USER:$PASSWD@home.ustc.edu.cn:21; mirror -eRv public public_html; quit;"
