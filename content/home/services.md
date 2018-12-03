@@ -8,7 +8,7 @@ date = 2018-12-03T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Professional services"
-subtitle = "[More Services <i class='fa fa-angle-double-right'></i>](/~tiandong/news)"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 8 
