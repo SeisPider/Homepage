@@ -16,4 +16,4 @@ weight = 2
 +++
 
 -   **Dec. 03, 2018**:
-    Xiao Xiao will join AGU 2018 Fall meeting at washington D.C., USA.
+    Xiao Xiao will join AGU 2018 Fall meeting (10-14 Dec. 2018) at washington D.C., USA and give a poster [Link](https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/388193).
