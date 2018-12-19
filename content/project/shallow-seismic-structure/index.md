@@ -21,11 +21,21 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# Featured image
+# To use, add an image named `featured.jpg/png` to your folder of projects. 
+[image]
+  # Caption (optional)
+  caption = "Model parameterization"
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 +++
 
-to be added
+Imaging shallow seismic structure can help better assessment of earthquake-induced ground-shaking, more accurate construction of seismic models at depth and
+revealing regional geological complexiticity. A 3D Vsv shallow model extending to 8 km was constrained with the joint inversion of Rayleigh wave ellipticity
+and receiver function in this study.
+
+## Shallow 3D Vsv model
+
+{{<figure src="shallow-model.png" numbered="True" alt="3D Vsv model" title="**Map view of average Vsv structure over depth range 0.5 -- 1.5 km.**" caption="The thick-black lines show location of transects. The grey dashed lines enclose Tibet area and the solid circles are indicative of uninterpolated average Vsv over this depth range beneath seismic stations.">}}

@@ -5,15 +5,15 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-12-21T15:00:00
-time_end = 2018-12-21T15:30:00
+time_start = 2018-12-25T16:30:00
+time_end = 2018-12-25T17:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Xiao Xiao**", "Shihua Cheng", "Lianxing Wen"]
 
 # Abstract and optional shortened version.
-abstract = "To be added"
-abstract_short = "To be added"
+abstract = "Shallow shear wave velocity structure plays essential role in earthquake hazard assessment, seismic imaging and geodynamic simulation. However, for China, it remains poorly constrained due to sparse data coverage for traditional body wave and surface wave tomography methods. To resolve it, Rayleigh wave ellipticity or ZH ratio, mainly sensitive to local shallow shear wave velocity (Vsv) model, and P wave receiver function (RF), reflecting discontinuities, are used to jointly constrain the shallow Vsv structure extending to 8 km from surface with a Markov Chain Monte Carlo (MCMC) method in this study."
+abstract_short = "A shallow 3D Vsv model is constructed from Rayleigh wave ellipticity and reciever function"
 
 # Name of event and optional event URL.
 event = ""
@@ -64,5 +64,3 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-
-To be added
