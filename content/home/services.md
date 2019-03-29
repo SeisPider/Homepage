@@ -14,7 +14,8 @@ subtitle = ""
 weight = 8 
 
 +++
-- **2017:** Assist in coordinating exchange meeting of China Seismological Reference Model work group
+- **Spring, 2019:** Student Organizer of “Weekly Graduate Student Seminar of Geophysics, USTC”
+- **2017 -- 2017:** Assist in coordinating exchange meeting of China Seismological Reference Model work group
 - **2017 -- present:** Member of the American Geophysical Union (AGU)
 - **2017 -- present:** Research assistant and database manager for China Seismological Reference Model work group
 - **2016 -- present:** Contributor of GMT China Community 
