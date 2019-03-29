@@ -11,3 +11,5 @@ weight = 6
 +++
 
 - **2017:** Outstanding undergraduate graduates of Wuhan University. ![](https://img.shields.io/badge/top-10%25-blue.svg)
+
+- **2017:** Outstanding undergraduate thesis of Wuhan University. ![](https://img.shields.io/badge/top-5%25-blue.svg)
