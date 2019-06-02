@@ -18,9 +18,9 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Master in Geophysics"
+  course = "PhD in Geophysics"
   institution = "University of Science and Technology of China"
-  year = "2020 (expected)"
+  year = "2022 (expected)"
 
 [[education.courses]]
   course = "BSc in Geophysics"
@@ -29,7 +29,7 @@ weight = 1
 
 +++
 
-Xiao Xiao is a graduate student in Geophysics at
+Xiao Xiao is a PhD candidate in Geophysics at
 [University of Science and Technology of China](http://en.ustc.edu.cn/),
 supervised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
