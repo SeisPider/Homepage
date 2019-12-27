@@ -17,7 +17,7 @@ authors = ["**Xiao Xiao**", "Shihua Cheng", "Lianxing Wen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In prepration"
+publication = "In preparation"
 publication_short = ""
 
 # Abstract and optional shortened version.
